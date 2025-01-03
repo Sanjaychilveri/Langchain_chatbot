@@ -1,5 +1,6 @@
 langchain_openai
 langchain_core
+langchain_ollama
 python-dotenv
 streamlit
 langchain_community
@@ -13,3 +14,9 @@ faiss-cpu
 wikipedia
 arxiv
 langchainhub
+groq
+langchain-groq
+beautifulsoup4
+chromadb
+cassio
+sentence_transformers
